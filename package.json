@@ -1,0 +1,17 @@
+{
+  "name": "model-based-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.5.0",
+    "@xstate/test": "^0.5.1",
+    "xstate": "^4.38.3"
+  }
+}
